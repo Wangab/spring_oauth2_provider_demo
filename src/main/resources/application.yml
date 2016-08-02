@@ -1,0 +1,15 @@
+server:
+  port: 9999
+  context-path: /wab
+security:
+  user:
+    name: wangab
+    password: 123456
+
+logging:
+  level:
+    root: DEBUG
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
