@@ -1,6 +1,6 @@
 //package com.example.oauth2.web;
 //
-//import com.example.oauth2.account.UserRepository;
+//import com.westar.oauth2.account.UserRepository;
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 //import org.springframework.security.config.annotation.authentication.configurers.GlobalAuthenticationConfigurerAdapter;
